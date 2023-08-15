@@ -14,18 +14,22 @@ body {
   background-color: cornsilk;
 }
 h1 {
-  font-size: 42px;
+  font-size: 26px;
   text-align: center;
 }
 
 p {
-  font-size: 20px;
+  font-size: 16px;
   line-height: 1.4;
+  font-family: sans-serif;
+}
+
+mark.mlfx {
   font-family: Malifaux, sans-serif;
 }
 
 span {
-  font-size: 14px;
+  font-size: 16px;
 }
 
 ul {
